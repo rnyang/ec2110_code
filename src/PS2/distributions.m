@@ -1,6 +1,9 @@
 % Generate Distributions using
 % rand and randn functions
 
+% Directory Setting
+cd /Users/royang/Dropbox/Harvard/2110_Kasy/ec2110_code/src/PS2/;
+
 % Number of Draws
 SIZE = 1000;
 distribution = 't';
